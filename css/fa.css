@@ -30,6 +30,10 @@ button {
   margin: 1em;
 }
 
+button:hover {
+  background-color: hsl(195, 73%, 41%);
+}
+
 .btn {
   text-align: center;
 }
